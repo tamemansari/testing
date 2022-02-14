@@ -13,11 +13,11 @@
   <form method="post" action="login.php">
   	<?php include('errors.php'); ?>
   	<div class="input-group">
-  		<label>Username</label>
+  		<label>User_name</label>
   		<input type="text" name="username" >
   	</div>
   	<div class="input-group">
-  		<label>Password</label>
+  		<label>Enter_Password</label>
   		<input type="password" name="password">
   	</div>
   	<div class="input-group">
