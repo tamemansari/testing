@@ -17,7 +17,7 @@
   	  <input type="text" name="username" >
   	</div>
   	<div class="input-group">
-  	  <label>Email</label>
+  	  <label>Email_id</label>
   	  <input type="email" name="email" >
   	</div>
   	<div class="input-group">
@@ -25,7 +25,7 @@
   	  <input type="password" name="password_1">
   	</div>
   	<div class="input-group">
-  	  <label>Confirm password</label>
+  	  <label>Confirm_password</label>
   	  <input type="password" name="password_2">
   	</div>
   	<div class="input-group">
