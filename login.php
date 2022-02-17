@@ -7,13 +7,13 @@
 </head>
 <body>
   <div class="header">
-  	<h2>Login</h2>
+  	<h2>Signin</h2>
   </div>
 	 
   <form method="post" action="login.php">
   	<?php include('errors.php'); ?>
   	<div class="input-group">
-  		<label>User_name</label>
+  		<label>User_Id</label>
   		<input type="text" name="username" >
   	</div>
   	<div class="input-group">
