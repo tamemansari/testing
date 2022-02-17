@@ -10,10 +10,10 @@ body {
 .header {
   width: 30%;
   margin: 60px auto 0px;
-  color: white;
+  color: blue;
   background: #5F9EA0;
-  text-align: center;
-  border: 1px solid #B0C4DE;
+  text-align: left;
+  border: 2px solid #B0C4DE;
   border-bottom: none;
   border-radius: 10px 10px 0px 0px;
   padding: 20px;
