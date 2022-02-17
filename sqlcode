@@ -1,0 +1,8 @@
+->MariaDB [online_store]> create table user_mst (uid int(11) NOT NULL AUTO_INCREMENT,
+Name varchar(20),Surname varchar(20),
+Address varchar(50),City varchar(20),
+Pincode varchar(20),
+Mobile varchar(20),
+Email varchar(20) NOT NULL , 
+Password varchar(20),
+EntryDate date , primary key(uid));
